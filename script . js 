@@ -1,1 +1,3 @@
-console.log("PromptVault Loaded Successfully!");
+function showMessage() {
+    alert("Welcome to PromptVault!");
+}
