@@ -1,10 +1,20 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>PromptVault</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PromptVault</title>
+
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Welcome to PromptVault</h1>
-  <p>Our AI website is under development.</p>
+
+    <h1>🚀 PromptVault</h1>
+    <p>The Ultimate AI Prompt Platform</p>
+
+    <button onclick="showMessage()">Get Started</button>
+
+    <script src="script.js"></script>
+
 </body>
 </html>
